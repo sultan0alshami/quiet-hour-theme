@@ -200,7 +200,7 @@
                 "en": "Footer",
                 "ar": "تذييل الصفحة"
             },
-            "icon": "sicon-layout",
+            "icon": "sicon-paper-plane-o",
             "path": "global.footer",
             "fields": {
                 "name": "Footer",
